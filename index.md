@@ -1,15 +1,18 @@
 ---
 layout: default
 ---
-# Take planks to the next level with the AB SHIELD 
+# **Develop a Steel Core and Rock-Hard Abs!**
 
-Introducing a revolutionary newly designed plank and push up handle to _challenge stability_ and _increase neuromuscular control_.
+
+# Take planks to the next level with the AB SHIELD
+
+### Introducing a revolutionary newly designed plank and push up handle to _challenge stability_ and _increase neuromuscular control_.
 
 ## COMING SOON! 
 
-Contact us at:
-theabshield [at] gmail.com
+### Contact us at:
+### theabshield [at sign] gmail.com
 
-![logo](logo.jpg){:height="30%" width="30%"}
+![logo](logo.jpg){:height="45%" width="45%"}
 
-<p>&copy; Ab Shield LLC, {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
+<p>&copy; AB SHIELD LLC, {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
