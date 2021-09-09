@@ -8,7 +8,6 @@ layout: default
 
 ### Introducing a revolutionary newly designed plank and push up handle to _challenge stability_ and _increase neuromuscular control_.
 
-## COMING SUMMER 2021! 
 
 ### Contact us at:
 ### theabshield [at sign] gmail.com
