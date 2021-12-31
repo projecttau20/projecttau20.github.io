@@ -6,4 +6,4 @@ layout: default
 {: refdef}
 
 
-<p>&copy; AB SHIELD LLC, 2021-2022 | All Rights Reserved. </p>
+<p>&copy; AB SHIELD LLC, 2022 | All Rights Reserved. </p>
